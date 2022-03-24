@@ -1,0 +1,33 @@
+DAY 2 – JAVASCRIPT 
+1)
+Browser js:
+*Runs in the browser 
+*used for front end development
+*Runs in browser engine like safari ,spider monkey 
+*Can add HTML tags 
+*Client usage language 
+Node js:
+*Javascript code can run outside the browser with help of nodejs
+*Server side development 
+*Runs in v8 engine of nodejs
+*Can’t add HTML tags 
+*Runs faster than browser js
+2)
+Watch and summary :
+*When a browsers renders a website it first reads the HTML code and forms DOM tree 
+* Then the browser renders css code and fromscssom tree 
+*Parsing html and css at the same time in OS ,js can affect them 
+*Then browser create layout for each individual render tree 
+*Paint set will take the layedout render trees and create layers 
+
+*after the tree were created ,render tree is constructed 
+4)
+Typeof(1)-number 
+Typeof(1.1)-number
+Typeof(‘1.1’)-string 
+Typeof(true)-boolean
+Typeof(null)-null value 
+Typeof(undefined)-undefined
+Typeof([])-object
+Typeof({})-object
+Typeof(NaN)-number 
